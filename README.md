@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Data & Analytics Engineer with experience in data science, machine learning, and big data technologies. Currently, I'm completing my Master's in Data Science at Northeastern University (graduating December 2024) and actively seeking full-time opportunities in data analytics, engineering, and machine learning.<br>
+As a driven and accomplished Data Engineer and Analyst, I excel at transforming complex data into actionable insights that solve business-critical problems. With over 3+ years of hands-on experience delivering impactful solutions in fintech, pharmaceutical, and education sectors, I specialize in leveraging data to drive informed decision-making and enhance organizational performance.
+
+I recently earned my Master’s in Information Systems from Northeastern University (December 2024), a journey that has refined my expertise in Data Engineering, Data Science, Machine Learning, and Business Analytics. Fueled by a mission to make a meaningful impact, I came to the U.S. with a vision to grow as a professional and create innovative, data-driven solutions that empower industries.<br>
 
 
 ## 🌐 Socials:
