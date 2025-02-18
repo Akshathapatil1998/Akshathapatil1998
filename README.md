@@ -1,7 +1,9 @@
 # 💫 About Me:
 As a driven and accomplished Data Engineer and Analyst, I excel at transforming complex data into actionable insights that solve business-critical problems. With over 3+ years of hands-on experience delivering impactful solutions in fintech, pharmaceutical, and education sectors, I specialize in leveraging data to drive informed decision-making and enhance organizational performance.
 
-I recently earned my Master’s in Information Systems from Northeastern University (December 2024), a journey that has refined my expertise in Data Engineering, Data Science, Machine Learning, and Business Analytics. Fueled by a mission to make a meaningful impact, I came to the U.S. with a vision to grow as a professional and create innovative, data-driven solutions that empower industries.<br>
+I recently earned my Master’s in Information Systems from Northeastern University (December 2024), a journey that has refined my expertise in Data Engineering, Data Science, Machine Learning, and Business Analytics. Fueled by a mission to make a meaningful impact, I came to the U.S. with a vision to grow as a professional and create innovative, data-driven solutions that empower industries.
+
+I am actively seeking full-time opportunities in Data Engineering, Data Science, or Analytics roles. If my technical background aligns with your organization's needs, please feel free to reach out to me at akshathapatil3103@gmail.com or connect here on LinkedIn.<br>
 
 
 ## 🌐 Socials:
